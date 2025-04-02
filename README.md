@@ -1,7 +1,5 @@
 📄 README.md
-markdown
-Copy
-Edit
+
 # 📞 Telegram Phone Lookup Bot
 
 A Telegram bot that performs phone number lookups using:
@@ -33,9 +31,6 @@ It uses `Selenium` to extract information and falls back to direct URLs if a CAP
 
 🧰 FreePeopleSearchTool: Click here to view results
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -43,21 +38,17 @@ Edit
 
 ### 1. Clone the repo
 
-```bash
+
 git clone https://github.com/YOUR_USERNAME/phone-lookup-bot.git
 cd phone-lookup-bot
 2. Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 3. Set up your bot
 Edit the TELEGRAM_API_KEY at the bottom of the script with your bot’s token from BotFather.
 
 4. Run the bot
-bash
-Copy
-Edit
+
 python Phone_Bot.py
 🧰 Requirements
 Python 3.8+
